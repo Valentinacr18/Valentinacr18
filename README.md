@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Valentina!
 
-<!--
-**Valentinacr18/Valentinacr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer focused on building intuitive interfaces and functional solutions that improve people's experience. I'm passionate about bringing design and technology together to create useful, accessible and well thought out products.
 
-Here are some ideas to get you started:
+## 🚀 Technologies I use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛️ React - Next.js - TypeScript
+- 🖌️ TailwindCSS - HTML - CSS
+- 🛠️ Git - GitHub - Vite
+- 🌐 APIs - Node.js 
+
+## 💼 Featured Projects
+
+- 🧴 **Hara** - Personalized skincare routine advisor. A project that seeks to make skincare accessible, clear and personalized. *(React + Next.js + DDD + i18n)*.  
+
+## 🌱 Currently learning.
+- Frontend architecture best practices
+- Testing and best practices with TypeScript.

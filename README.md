@@ -7,7 +7,7 @@ I'm a web developer focused on building intuitive interfaces and functional solu
 ## 🚀 Featured project
 
 [Hara](https://github.com/Compile-Chill/Hara.git)
-Is a Next.js and TypeScript-based application that helps users discover the perfect skincare routine.
+is a Next.js and TypeScript-based application that helps users discover the perfect skincare routine.
 
 ---
 

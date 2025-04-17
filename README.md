@@ -4,7 +4,12 @@ I'm a web developer focused on building intuitive interfaces and functional solu
 
 ---
 
-### 💻 Languages and Tools
+## 🚀 Featured project
+###[Hara](https://github.com/Compile-Chill/Hara.git)
+Hara is a Next.js and TypeScript-based application that helps users discover the perfect skincare routine.
+---
+
+## 💻 Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
@@ -20,7 +25,7 @@ I'm a web developer focused on building intuitive interfaces and functional solu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </p>
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 <p align="left">
   
